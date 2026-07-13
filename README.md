@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/spandana726/Leetcode-Problems/tree/master/0089-gray-code) |
+## Two Pointers
+|  |
+| ------- |
+| [1754-largest-merge-of-two-strings](https://github.com/spandana726/Leetcode-Problems/tree/master/1754-largest-merge-of-two-strings) |
+## String
+|  |
+| ------- |
+| [1754-largest-merge-of-two-strings](https://github.com/spandana726/Leetcode-Problems/tree/master/1754-largest-merge-of-two-strings) |
+## Greedy
+|  |
+| ------- |
+| [1754-largest-merge-of-two-strings](https://github.com/spandana726/Leetcode-Problems/tree/master/1754-largest-merge-of-two-strings) |
 <!---LeetCode Topics End-->
