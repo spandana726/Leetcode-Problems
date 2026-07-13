@@ -1,13 +1,30 @@
 class Solution:
-    def largestMerge(self, w1: str, w2: str) -> str:
-        ans=[]
-        m,n=len(w1),len(w2)
-        i=j=0
-        while i<m or j<n:
-            if w1[i:]>w2[j:]:
-                ans.append(w1[i])
+    def largestMerge(self, word1: str, word2: str) -> str:
+        s = ""
+        k = ""
+        i = 0
+        j = 0
+        m = len(word1)
+        n = len(word2)
+        while(i<m and j<n):
+            if(word1[i]==word2[j]):
+                if(word1[i:]>word2[j:]):
+                    s+=word1[i]
+                    i+=1
+                else:
+                    s+=word2[j]
+                    j+=1
+            elif(word1[i]>word2[j]):
+                s+=word1[i]
                 i+=1
             else:
-                ans.append(w2[j])
+                s+=word2[j]
                 j+=1
-        return ''.join(ans)
+        while(i<m):
+            k+=word1[i]
+            i+=1
+        while(j<n):
+            k+=word2[j]
+            j+=1
+        return s+k
+        
