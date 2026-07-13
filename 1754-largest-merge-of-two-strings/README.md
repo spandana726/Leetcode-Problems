@@ -47,3 +47,85 @@
 	<li><code>1 &lt;= word1.length, word2.length &lt;= 3000</code></li>
 	<li><code>word1</code> and <code>word2</code> consist only of lowercase English letters.</li>
 </ul>
+Let:
+
+* (m = \text{len(word1)})
+* (n = \text{len(word2)})
+
+### Time Complexity
+
+The `while` loop runs at most:
+
+```text
+m + n
+```
+
+iterations because in each iteration either `i` or `j` increases.
+
+However, when characters are equal, you do:
+
+```python
+word1[i:] > word2[j:]
+```
+
+Creating and comparing these slices is **not O(1)**.
+
+* `word1[i:]` creates a new substring.
+* `word2[j:]` creates another new substring.
+* Comparing them may scan many characters.
+
+In the worst case (for example, when the strings contain many equal prefixes like `"aaaaaaaa..."`), each comparison can take **O(m + n)**.
+
+Since this can happen in **O(m + n)** iterations:
+
+[
+\boxed{O((m+n)^2)}
+]
+
+If both strings have length (N):
+
+[
+\boxed{O(N^2)}
+]
+
+---
+
+### Space Complexity
+
+Ignoring the output string, each slice
+
+```python
+word1[i:]
+word2[j:]
+```
+
+creates new strings.
+
+The largest slices together can occupy:
+
+[
+\boxed{O(m+n)}
+]
+
+extra space during an iteration.
+
+Also, the output strings `s` and `k` together store all characters:
+
+[
+\boxed{O(m+n)}
+]
+
+So:
+
+* **Auxiliary space (excluding the output):** (\boxed{O(m+n)})
+* **Including the output:** (\boxed{O(m+n)})
+
+---
+
+### Final Answer
+
+* **Time Complexity:** (\boxed{O((m+n)^2)}) (or **O(N²)** when both strings have length (N))
+* **Auxiliary Space:** (\boxed{O(m+n)})
+* **Space including the output:** (\boxed{O(m+n)})
+
+Your solution is correct, but the repeated slicing (`word1[i:]` and `word2[j:]`) is what makes it quadratic. An optimized solution avoids creating slices and achieves better performance.
