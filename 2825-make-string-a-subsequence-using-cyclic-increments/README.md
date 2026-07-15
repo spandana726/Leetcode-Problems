@@ -42,3 +42,38 @@ Therefore, false is returned.</pre>
 	<li><code>1 &lt;= str2.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>str1</code> and <code>str2</code> consist of only lowercase English letters.</li>
 </ul>
+Time Complexity: O(m)
+
+Let:
+
+m = len(str1)
+n = len(str2)
+
+Your loop is:
+
+while(i < m and j < n):
+i is incremented in every iteration.
+j is incremented only when there's a match.
+
+Since i never decreases and can go from 0 to m - 1, the loop executes at most m times.
+
+Everything inside the loop (ord(), chr(), comparisons, assignments) is O(1).
+
+Therefore,
+
+Time Complexity=O(m)
+	​
+
+(You could also say O(m + n) because both pointers only move forward, but since n ≤ m in the valid case, this simplifies to O(m).)
+
+Space Complexity: O(1)
+
+You only use a few variables:
+
+i, j, count, character, nextc
+
+These take constant space regardless of the input size.
+
+So,
+
+Space Complexity=O(1)
