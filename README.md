@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/spandana726/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/spandana726/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/spandana726/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0942-di-string-match](https://github.com/spandana726/Leetcode-Problems/tree/master/0942-di-string-match) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/spandana726/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/spandana726/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/spandana726/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0942-di-string-match](https://github.com/spandana726/Leetcode-Problems/tree/master/0942-di-string-match) |
