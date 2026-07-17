@@ -10,9 +10,9 @@ class Solution:
                 j+=1
             chars[count] = chars[i]
             count+=1
-            k = j-i
-            if k>1:
-                for c in str(k):
+            f = j-i
+            if f>1:
+                for c in str(f):
                     chars[count] = c
                     count+=1
             i = j
