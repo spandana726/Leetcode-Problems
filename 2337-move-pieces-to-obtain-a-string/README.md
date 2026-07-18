@@ -44,3 +44,83 @@ After that, no pieces can move anymore, so it is impossible to obtain the string
 	<li><code>1 &lt;= n &lt;= 10<sup>5</sup></code></li>
 	<li><code>start</code> and <code>target</code> consist of the characters <code>&#39;L&#39;</code>, <code>&#39;R&#39;</code>, and <code>&#39;_&#39;</code>.</li>
 </ul>
+Cases that test each rule individually
+✅ Same order after removing _
+start  = "__L_R__R"
+target = "L___R__R"
+
+Expected: True
+
+❌ Different order
+start  = "__LR"
+target = "__RL"
+
+Expected: False
+
+❌ L moves right
+start  = "L___"
+target = "__L_"
+
+Expected: False
+
+❌ R moves left
+start  = "__R_"
+target = "_R__"
+
+Expected: False
+
+✅ L moves left many steps
+start  = "___L"
+target = "L___"
+
+Expected: True
+
+✅ R moves right many steps
+start  = "R___"
+target = "___R"
+
+Expected: True
+
+❌ Remaining piece in start
+start  = "__L"
+target = "___"
+
+Expected: False
+
+❌ Remaining piece in target
+start  = "___"
+target = "__L"
+
+Expected: False
+
+The four most important hidden tests
+
+These are the ones that most incorrect solutions fail:
+
+1.
+start  = "_L"
+target = "LR"
+Expected = False
+
+2.
+start  = "__"
+target = "_L"
+Expected = False
+
+3.
+start  = "__L"
+target = "___"
+Expected = False
+
+4.
+start  = "____"
+target = "____"
+Expected = True
+
+If your code passes these four, plus the official examples, you're covering the main edge cases:
+
+skipping multiple underscores,
+illegal L movement,
+illegal R movement,
+changed piece order,
+and unmatched remaining pieces.
