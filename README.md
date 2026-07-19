@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/spandana726/Leetcode-Problems/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1754-largest-merge-of-two-strings](https://github.com/spandana726/Leetcode-Problems/tree/master/1754-largest-merge-of-two-strings) |
 | [1813-sentence-similarity-iii](https://github.com/spandana726/Leetcode-Problems/tree/master/1813-sentence-similarity-iii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/spandana726/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/spandana726/Leetcode-Problems/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/spandana726/Leetcode-Problems/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2938-separate-black-and-white-balls](https://github.com/spandana726/Leetcode-Problems/tree/master/2938-separate-black-and-white-balls) |
@@ -53,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/spandana726/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0942-di-string-match](https://github.com/spandana726/Leetcode-Problems/tree/master/0942-di-string-match) |
 | [1813-sentence-similarity-iii](https://github.com/spandana726/Leetcode-Problems/tree/master/1813-sentence-similarity-iii) |
+## Hash Table
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/spandana726/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/spandana726/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/spandana726/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
