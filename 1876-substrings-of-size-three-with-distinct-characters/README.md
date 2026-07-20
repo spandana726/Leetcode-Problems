@@ -32,3 +32,55 @@ The good substrings are &quot;abc&quot;, &quot;bca&quot;, &quot;cab&quot;, and &
 	<li><code>1 &lt;= s.length &lt;= 100</code></li>
 	<li><code>s</code>​​​​​​ consists of lowercase English letters.</li>
 </ul>
+
+
+
+
+
+
+
+
+
+
+Time Complexity: O(n)
+
+Here's why:
+
+The for loop runs n times.
+Each iteration performs:
+One dictionary insertion/update → O(1) average.
+At most one dictionary removal → O(1) average.
+len(mp) → O(1).
+The left pointer (l) only moves forward and can move at most n times in total.
+
+So the total work is proportional to n.
+
+Time Complexity = O(n)
+
+Space Complexity: O(1)
+
+The window size is fixed at 3.
+
+That means the dictionary can never store more than 3 distinct characters.
+
+For example:
+
+Window = "abc"
+
+mp = {
+'a':1,
+'b':1,
+'c':1
+}
+
+Maximum size of mp = 3, which is a constant.
+
+Space Complexity = O(1)
+
+Interview explanation
+
+You can say:
+
+Time Complexity: O(n), because both pointers (l and r) move only forward, and each character is added to and removed from the hash map at most once.
+
+Space Complexity: O(1), because the sliding window size is fixed at 3, so the hash map stores at most 3 characters.
