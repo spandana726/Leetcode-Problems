@@ -8,3 +8,18 @@ class Solution:
                 count += 1
 
         return count
+
+
+
+
+
+# Time Complexity 
+There are n - 2 substrings.
+Each substring has fixed length 3, so checking uniqueness takes constant time.
+
+Time Complexity: O(n) (more precisely, O((n-2) × 3), which simplifies to O(n))
+
+Space Complexity:
+
+Using set: O(1) (the set holds at most 3 characters).
+Without set: O(1).
