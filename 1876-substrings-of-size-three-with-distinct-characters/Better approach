@@ -1,0 +1,68 @@
+class Solution:
+    def countGoodSubstrings(self, s: str) -> int:
+        n = len(s)
+        k = ""
+        count = 0
+        for i in range(0,n-2):
+            mp = {}
+            for j in range(i,i+3):
+                if s[j] in mp:
+                    mp[s[j]]+=1
+                else:
+                    mp[s[j]] = 1
+            if len(mp)==3:
+                count+=1
+        return count
+
+
+
+
+
+
+
+
+
+
+#Time Complexity
+n = len(s) → O(1)
+Outer loop runs n - 2 times → O(n)
+Inner loop always runs 3 times → O(3) = O(1)
+Dictionary insertion/lookup is O(1) on average.
+len(mp) is O(1).
+
+So,
+
+O(n×3)=O(n)
+
+Time Complexity: O(n)
+
+Space Complexity
+
+In each iteration:
+
+mp = {}
+
+The dictionary stores at most 3 characters, because the window size is 3.
+
+So the maximum size of mp is:
+
+{
+'a':1,
+'b':1,
+'c':1
+}
+
+At most 3 keys.
+
+Therefore,
+
+Space Complexity: O(1)
+
+Interview explanation
+
+You can say:
+
+Time Complexity: O(n) because the outer loop runs n-2 times, and the inner loop always runs a constant 3 iterations.
+Space Complexity: O(1) because the hash map stores at most 3 characters regardless of the input size.
+
+This is the expected complexity analysis for your solution.
