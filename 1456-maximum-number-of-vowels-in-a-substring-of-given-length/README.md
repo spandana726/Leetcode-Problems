@@ -35,3 +35,52 @@
 	<li><code>s</code> consists of lowercase English letters.</li>
 	<li><code>1 &lt;= k &lt;= s.length</code></li>
 </ul>
+##Time Complexity
+The outer loop:
+for j in range(n):
+
+runs n times.
+
+Inside the loop:
+Dictionary insertion/deletion: O(1) on average.
+Window adjustment: O(1).
+But this part:
+for ch in dic.keys():
+
+iterates over all distinct characters in the current window.
+
+In the worst case, the window can contain k distinct characters, so this loop takes O(k).
+
+Therefore:
+
+Outer loop: O(n)
+Inner loop: O(k)
+
+Overall Time Complexity:
+
+O(n×k)
+	​
+
+Space Complexity
+
+You are storing character frequencies in dic.
+
+At any time, the dictionary contains only characters in the current window.
+In the worst case, all k characters in the window are distinct.
+
+So the dictionary size is at most k.
+
+Additionally:
+
+a = set('aeiou') stores only 5 characters, which is O(1).
+
+Overall Space Complexity:
+
+O(k)
+	​
+
+Summary
+Time Complexity: O(n × k)
+Space Complexity: O(k)
+
+Note: If the input is guaranteed to contain only lowercase English letters (26 characters), then the loop over dic.keys() is bounded by 26, making the practical time O(n). However, in interview analysis, since the dictionary size depends on the window size, it is generally analyzed as O(n × k).
