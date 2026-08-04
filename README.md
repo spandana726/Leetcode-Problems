@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/spandana726/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/spandana726/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/spandana726/Leetcode-Problems/tree/master/0038-count-and-say) |
+| [0068-text-justification](https://github.com/spandana726/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/spandana726/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/spandana726/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/spandana726/Leetcode-Problems/tree/master/0567-permutation-in-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/spandana726/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/spandana726/Leetcode-Problems/tree/master/0041-first-missing-positive) |
+| [0068-text-justification](https://github.com/spandana726/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0643-maximum-average-subarray-i](https://github.com/spandana726/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0821-shortest-distance-to-a-character](https://github.com/spandana726/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0942-di-string-match](https://github.com/spandana726/Leetcode-Problems/tree/master/0942-di-string-match) |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/spandana726/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/spandana726/Leetcode-Problems/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
