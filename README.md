@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/spandana726/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/spandana726/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0089-gray-code](https://github.com/spandana726/Leetcode-Problems/tree/master/0089-gray-code) |
 ## Bit Manipulation
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/spandana726/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0037-sudoku-solver](https://github.com/spandana726/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/spandana726/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0068-text-justification](https://github.com/spandana726/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0643-maximum-average-subarray-i](https://github.com/spandana726/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/spandana726/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/spandana726/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/spandana726/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/spandana726/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0424-longest-repeating-character-replacement](https://github.com/spandana726/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/spandana726/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -138,4 +141,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/spandana726/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/spandana726/Leetcode-Problems/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/spandana726/Leetcode-Problems/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/spandana726/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
