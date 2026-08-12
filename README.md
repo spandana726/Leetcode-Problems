@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/spandana726/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/spandana726/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/spandana726/Leetcode-Problems/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/spandana726/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0068-text-justification](https://github.com/spandana726/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0424-longest-repeating-character-replacement](https://github.com/spandana726/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/spandana726/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/spandana726/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0942-di-string-match](https://github.com/spandana726/Leetcode-Problems/tree/master/0942-di-string-match) |
 | [1754-largest-merge-of-two-strings](https://github.com/spandana726/Leetcode-Problems/tree/master/1754-largest-merge-of-two-strings) |
 | [2938-separate-black-and-white-balls](https://github.com/spandana726/Leetcode-Problems/tree/master/2938-separate-black-and-white-balls) |
@@ -153,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/spandana726/Leetcode-Problems/tree/master/0037-sudoku-solver) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/spandana726/Leetcode-Problems/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/spandana726/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
