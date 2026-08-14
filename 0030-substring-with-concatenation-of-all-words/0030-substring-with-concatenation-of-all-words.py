@@ -30,8 +30,7 @@ class Solution:
                         break
                     temp[ans] = temp.get(ans,0)+1
                 if temp==tic:
-                    l.append(i)
-                    
+                    l.append(i)                
         return l
 
 
