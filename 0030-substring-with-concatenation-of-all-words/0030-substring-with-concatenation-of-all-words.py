@@ -5,22 +5,15 @@ class Solution:
         m = len(words)
         n = len(s)
         k = ""
-        dic = {}
         tic = {}
         ans = ""
         lenofw = len(words[0])
         l =[]
-        for char in words:
-            k+=char
-        totalen = len(k)
+        totalen = len(words)*lenofw
         for character in words:
             tic[character] = tic.get(character,0)+1
         for j in range(0,n):
-            dic[s[j]] = dic.get(s[j],0)+1
             if j-i+1>totalen:
-                dic[s[i]]-=1
-                if dic[s[i]]==0:
-                    del dic[s[i]]
                 i+=1
             if j-i+1==totalen:
                 temp = {}
