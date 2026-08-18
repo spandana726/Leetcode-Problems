@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/spandana726/Leetcode-Problems/tree/master/0089-gray-code) |
+| [0149-max-points-on-a-line](https://github.com/spandana726/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 ## Backtracking
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/spandana726/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/spandana726/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/spandana726/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
+| [0149-max-points-on-a-line](https://github.com/spandana726/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0209-minimum-size-subarray-sum](https://github.com/spandana726/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/spandana726/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0821-shortest-distance-to-a-character](https://github.com/spandana726/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/spandana726/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/spandana726/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/spandana726/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
+| [0149-max-points-on-a-line](https://github.com/spandana726/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0424-longest-repeating-character-replacement](https://github.com/spandana726/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/spandana726/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/spandana726/Leetcode-Problems/tree/master/0567-permutation-in-string) |
@@ -191,4 +194,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/spandana726/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/spandana726/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/spandana726/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/spandana726/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
