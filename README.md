@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/spandana726/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0068-text-justification](https://github.com/spandana726/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/spandana726/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/spandana726/Leetcode-Problems/tree/master/0087-scramble-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/spandana726/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/spandana726/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/spandana726/Leetcode-Problems/tree/master/0443-string-compression) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/spandana726/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/spandana726/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/spandana726/Leetcode-Problems/tree/master/0087-scramble-string) |
 ## Recursion
 |  |
 | ------- |
