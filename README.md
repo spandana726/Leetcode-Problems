@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/spandana726/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/spandana726/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0149-max-points-on-a-line](https://github.com/spandana726/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
+| [0174-dungeon-game](https://github.com/spandana726/Leetcode-Problems/tree/master/0174-dungeon-game) |
 | [0209-minimum-size-subarray-sum](https://github.com/spandana726/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/spandana726/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/spandana726/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/spandana726/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/spandana726/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
+| [0174-dungeon-game](https://github.com/spandana726/Leetcode-Problems/tree/master/0174-dungeon-game) |
 ## Algorithm X
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/spandana726/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/spandana726/Leetcode-Problems/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/spandana726/Leetcode-Problems/tree/master/0091-decode-ways) |
+| [0174-dungeon-game](https://github.com/spandana726/Leetcode-Problems/tree/master/0174-dungeon-game) |
 ## Recursion
 |  |
 | ------- |
