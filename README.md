@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/spandana726/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/spandana726/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/spandana726/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/spandana726/Leetcode-Problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0821-shortest-distance-to-a-character](https://github.com/spandana726/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0942-di-string-match](https://github.com/spandana726/Leetcode-Problems/tree/master/0942-di-string-match) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/spandana726/Leetcode-Problems/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/spandana726/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/spandana726/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/spandana726/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/spandana726/Leetcode-Problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0821-shortest-distance-to-a-character](https://github.com/spandana726/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/spandana726/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0942-di-string-match](https://github.com/spandana726/Leetcode-Problems/tree/master/0942-di-string-match) |
