@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/spandana726/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/spandana726/Leetcode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/spandana726/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1695-maximum-erasure-value](https://github.com/spandana726/Leetcode-Problems/tree/master/1695-maximum-erasure-value) |
 | [1813-sentence-similarity-iii](https://github.com/spandana726/Leetcode-Problems/tree/master/1813-sentence-similarity-iii) |
 | [2090-k-radius-subarray-averages](https://github.com/spandana726/Leetcode-Problems/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/spandana726/Leetcode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/spandana726/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/spandana726/Leetcode-Problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/spandana726/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1695-maximum-erasure-value](https://github.com/spandana726/Leetcode-Problems/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/spandana726/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/spandana726/Leetcode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/spandana726/Leetcode-Problems/tree/master/2653-sliding-subarray-beauty) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/spandana726/Leetcode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/spandana726/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/spandana726/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/spandana726/Leetcode-Problems/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/spandana726/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/spandana726/Leetcode-Problems/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/spandana726/Leetcode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
