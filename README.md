@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/spandana726/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/spandana726/Leetcode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/spandana726/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/spandana726/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/spandana726/Leetcode-Problems/tree/master/1695-maximum-erasure-value) |
 | [1813-sentence-similarity-iii](https://github.com/spandana726/Leetcode-Problems/tree/master/1813-sentence-similarity-iii) |
 | [2090-k-radius-subarray-averages](https://github.com/spandana726/Leetcode-Problems/tree/master/2090-k-radius-subarray-averages) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/spandana726/Leetcode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/spandana726/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/spandana726/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/spandana726/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/spandana726/Leetcode-Problems/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/spandana726/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/spandana726/Leetcode-Problems/tree/master/2090-k-radius-subarray-averages) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/spandana726/Leetcode-Problems/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/spandana726/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0174-dungeon-game](https://github.com/spandana726/Leetcode-Problems/tree/master/0174-dungeon-game) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/spandana726/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
 |  |
 | ------- |
