@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/spandana726/Leetcode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/spandana726/Leetcode-Problems/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2653-sliding-subarray-beauty](https://github.com/spandana726/Leetcode-Problems/tree/master/2653-sliding-subarray-beauty) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/spandana726/Leetcode-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/spandana726/Leetcode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/spandana726/Leetcode-Problems/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2653-sliding-subarray-beauty](https://github.com/spandana726/Leetcode-Problems/tree/master/2653-sliding-subarray-beauty) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/spandana726/Leetcode-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
