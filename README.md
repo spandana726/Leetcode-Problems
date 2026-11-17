@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/spandana726/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/spandana726/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/spandana726/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/spandana726/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/spandana726/Leetcode-Problems/tree/master/0174-dungeon-game) |
 | [0209-minimum-size-subarray-sum](https://github.com/spandana726/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/spandana726/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/spandana726/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/spandana726/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/spandana726/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/spandana726/Leetcode-Problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
