@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/spandana726/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/spandana726/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/spandana726/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/spandana726/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/spandana726/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Backtracking
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/spandana726/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0191-number-of-1-bits](https://github.com/spandana726/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/spandana726/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/spandana726/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Two Pointers
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/spandana726/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0174-dungeon-game](https://github.com/spandana726/Leetcode-Problems/tree/master/0174-dungeon-game) |
 | [0209-minimum-size-subarray-sum](https://github.com/spandana726/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/spandana726/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/spandana726/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/spandana726/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/spandana726/Leetcode-Problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/spandana726/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/spandana726/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0149-max-points-on-a-line](https://github.com/spandana726/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
+| [0268-missing-number](https://github.com/spandana726/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/spandana726/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/spandana726/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/spandana726/Leetcode-Problems/tree/master/0567-permutation-in-string) |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/spandana726/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/spandana726/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/spandana726/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/spandana726/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
@@ -251,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/spandana726/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/spandana726/Leetcode-Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
